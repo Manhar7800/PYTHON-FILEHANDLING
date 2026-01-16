@@ -1,0 +1,17 @@
+[
+    {
+        "name": "manhar",
+        "subject": "python",
+        "score": 2
+    },
+    {
+        "name": "jaydip",
+        "subject": "java",
+        "score": 78
+    },
+    {
+        "name": "rakesh",
+        "subject": "c langvuge",
+        "score": 55
+    }
+]
